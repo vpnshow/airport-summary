@@ -18,7 +18,7 @@
 > - **想快速查看一览表**：直接前往[2026年翻墙VPN机场推荐一览表](#vpn-airport-plan-comparison)，对比月均折算价、不限时流量包、通用订阅和详情页。
 > - **想先试再买**：Echo 页面列有 5GB / 3 小时试用，可先[查看 Echo 套餐与测速](https://eoht.net/serve/airport/echo)。
 > - **想买一次性流量包**：可比较[星岛梦](https://eoht.net/serve/airport/xdm)、[Sogo云](https://eoht.net/serve/airport/sogo)、[无忧链接](https://eoht.net/serve/airport/wuyou)、[光速云](https://eoht.net/serve/airport/lightspeed)、[飞为(Firefly)](https://eoht.net/serve/airport/firefly)和[九云机场(9Yun)](https://eoht.net/serve/airport/9yun)。
-> - **想用专属或自研客户端**：可比较[一翻云](https://eoht.net/serve/airport/1fly)、[Sogo云](https://eoht.net/serve/airport/sogo)、[闪跃](https://eoht.net/serve/airport/flashleap)、[隐云](https://eoht.net/serve/airport/yinyun)与[梯子云(LadderCloud)](https://eoht.net/serve/airport/laddercloud)。
+> - **想用专属或自研客户端**：可比较[一翻云](https://eoht.net/serve/airport/1fly)、[Sogo云](https://eoht.net/serve/airport/sogo)、[闪跃](https://eoht.net/serve/airport/flashleap)、[隐云](https://eoht.net/serve/airport/yinyun)、[梯子云(LadderCloud)](https://eoht.net/serve/airport/laddercloud)与[灵动云(LingDongYun)](https://eoht.net/serve/airport/lingdongyun)。
 > - **想比较 IEPL 专线与大流量**：可查看[可信云(KeXin)](https://eoht.net/serve/airport/kexin)的 60GB 至 1.2TB 套餐和测速记录。
 > - **想按线路选择**：先看[直连、中转、IPLC 与 IEPL 怎么选](https://eoht.net/serve/routes/selection)，再回到对应详情页核对套餐。
 >
@@ -84,6 +84,7 @@
 | [杏花云(XingHua)](#xinghua-airport-review) | [前往官网](https://eoht.net/serve/airport/xinghua) | ¥1 · 50GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/xinghua" aria-label="查看杏花云完整详情">前往详情</a> |
 | [闪电鼠(ShanDian)](#shandian-airport-review) | [前往官网](https://eoht.net/serve/airport/shandian) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/shandian" aria-label="查看闪电鼠完整详情">前往详情</a> |
 | [环球梯(HuanQiu)](#huanqiu-airport-review) | [前往官网](https://eoht.net/serve/airport/huanqiu) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/huanqiu" aria-label="查看环球梯完整详情">前往详情</a> |
+| [灵动云(LingDongYun)](#lingdongyun-airport-review) | [前往官网](https://eoht.net/serve/airport/lingdongyun) | ¥8.25 · 70GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/lingdongyun" aria-label="查看灵动云完整详情">前往详情</a> |
 
 <a id="推荐基本原则"></a>
 
@@ -2394,6 +2395,89 @@
 
 <a href="https://eoht.net/serve/airport/huanqiu" target="_blank" rel="sponsored noreferrer">访问环球梯官网</a> · [查看完整评测](https://eoht.net/serve/airport/huanqiu) · [独立仓库 HuanQiu](https://github.com/vpnshow/HuanQiu)
 
+---
+
+<a id="lingdongyun-airport-review"></a>
+
+### 灵动云(LingDongYun)
+
+**月付最低 ¥20、100GB/月；年付 ¥99、70GB/月，折合 ¥8.25/月。提供专用客户端，通用订阅需联系客服获取；另有不限时流量包，活动期间可按付款周期使用对应优惠码。**
+
+[查看灵动云套餐](https://eoht.net/serve/airport/lingdongyun)
+
+本页整理灵动云的推广注册入口、公开套餐与活动说明。价格、节点和优惠适用范围以当前购买页为准。
+
+**灵动云（LingDongYun）**提供月付、年付、不限时流量包和私人定制四类方案。以下线路、速率与解锁能力按官网及套餐截图中的服务方说明整理。
+
+- **线路与协议**：拂风、驭浪、破晓、凌霄等套餐介绍列有 BGP 专线与 SS 协议；穿云截图单独标注为 **全 IPLC 专线**，单节点峰值最高 **2.5Gbps**。该峰值属于套餐宣传规格，本站尚未独立测速。
+- **专用客户端**：可直接从官网下载灵动云专用客户端，按官网列出的系统与版本选择安装。
+- **通用订阅**：需联系客服获取订阅链接，再导入兼容客户端；官网列有 Clash Verge、Clash Party、Mihomo 等工具及手机端配置说明。
+- **穿云节点覆盖**：套餐截图列有香港 ×20、台湾 ×10、日本 ×10、新加坡 ×10、美国 ×10、韩国 ×2、阿根廷 ×2；另列马来西亚、越南、菲律宾、泰国、印度、德国、法国、英国等地区，未逐一标注数量。该列表对应穿云，实际节点以所购套餐内展示为准。
+- **流媒体与 AI**：套餐截图列有 Netflix、Disney+、HBO、ChatGPT、Claude 等平台支持，穿云还列有 TikTok；官网另介绍 Midjourney 连接。各套餐宣传范围不同，具体可用地区与节点需实际核对，也可参考下方[历史解锁图](https://eoht.net/serve/airport/lingdongyun#lingdongyun-unlock-test)。
+- **速率与设备**：全部套餐均**不限速、设备数量不限**；同时使用的 IP 数量限制未说明。流量按所购套餐额度计算。
+- **流量倍率**：全部套餐统一为 **1 倍率**，包括周期套餐、不限时流量包和私人定制。
+- **套餐规则**：穿云从购买日起每 **30 天**刷新 70GB；其他周期套餐的重置日以账户内说明为准。一次性套餐为固定总流量，用完为止，不按月清零。
+- **客服与售后**：官网提供在线客服及用户中心工单入口。服务条款提及退款申请与升级补差价，具体资格、金额和处理时限需按平台指引确认。
+
+> [!TIP]
+> **中秋国庆限时活动**
+>
+> - **年付及以上周期 8 折**：优惠码 `zq88`，适用于购买或续费年付、多年付方案。
+> - **年付以下周期 8.5 折**：优惠码 `zq85`，适用于购买或续费月付、季付、半年付方案。
+> - **活动时间**：2026 年 9 月 24 日起至 2026 年 10 月 25 日 23:59（北京时间）。
+> - **使用方法**：在结算页的“优惠码 / 折扣码”输入框填写并应用；每个订单仅限一个优惠码，不可与其他促销活动叠加。
+> - **适用边界**：活动说明未明确不限时流量包、重置流量包和私人定制的参与情况，购买前需确认。下表为购买页截图中的标价，未预先叠加活动折扣。
+>
+
+**支付方式**：支持支付宝、微信和 USDT，具体支付通道以结算页显示为准。
+
+**常规周期套餐**
+
+| 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 两年付 | 三年付 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **拂风** | **100GB** | ¥20 | ¥57 | ¥108 | ¥204 | ¥384 | ¥540 | [立即购买](https://eoht.net/serve/airport/lingdongyun) |
+| **驭浪** | **300GB** | ¥50 | ¥142.50 | ¥270 | ¥510 | ¥960 | ¥1350 | [立即购买](https://eoht.net/serve/airport/lingdongyun) |
+| **破晓** | **700GB** | ¥100 | ¥285 | ¥540 | ¥1020 | ¥1920 | ¥2700 | [立即购买](https://eoht.net/serve/airport/lingdongyun) |
+| **凌霄** | **1500GB（1.5TB）** | ¥180 | ¥513 | ¥972 | ¥1836 | ¥3456 | ¥4860 | [立即购买](https://eoht.net/serve/airport/lingdongyun) |
+| **穿云** | **70GB** | — | — | — | ¥99 | — | — | [立即购买](https://eoht.net/serve/airport/lingdongyun) |
+
+- **可选周期**：拂风、驭浪、破晓和凌霄的购买页均列出月付、季付、半年付、年付、两年付和三年付，穿云仅列年付。
+- **周期价格**：表内价格均为对应付款周期的总额，流量为每月额度；“—”表示所提供的购买页截图未列出该周期。
+- **年付流量**：¥99 是全年费用，穿云标注 70GB/月，并按购买日起每 30 天刷新，并非全年共用 70GB，也不能按 ¥8.25 单月购买。
+- **重置规则**：穿云按套餐截图中的“购买日起每 30 天”规则整理；其他套餐的具体重置日以账户内说明为准。未用完的周期流量不应默认可以累积。
+
+**重置流量包**
+
+| 对应套餐 | 重置流量包价格 |
+|:---:|:---:|
+| **拂风** | ¥20 |
+| **驭浪** | ¥50 |
+| **破晓** | ¥100 |
+| **凌霄** | ¥180 |
+| **穿云** | ¥99 |
+
+以上为购买页单独列出的重置选项价格，不计入上表周期套餐总额。截图未说明重置后是否影响原到期日、流量刷新时间或优惠资格，购买前应核对重置说明。
+
+**不限时流量包**
+
+| 套餐类型 | 总流量 | 一次性价格 | 有效期与扣减 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|
+| **闲云（小流量包）** | **150GB** | ¥199 | 不限时，用完为止 | [立即购买](https://eoht.net/serve/airport/lingdongyun) |
+| **惊云（标准流量包）** | **400GB** | ¥499 | 不限时，用完为止 | [立即购买](https://eoht.net/serve/airport/lingdongyun) |
+| **飞云（精英流量包）** | **800GB** | ¥899 | 不限时，用完为止 | [立即购买](https://eoht.net/serve/airport/lingdongyun) |
+
+以上为单次购买的总流量，不是每月额度；“不限时”不等于无限流量。官网套餐指南称这些流量包与月付使用相同的节点列表，实际节点以账户内展示为准。
+
+**私人定制**
+
+| 套餐类型 | 月付标价 | 流量/月 | 服务说明 | 咨询入口 |
+|:---:|:---:|:---:|:---:|:---:|
+| **至尊私人定制** | **¥680** | **500GB** | 独立带宽与独立公网 IP，不与他人共享，具体配置需咨询 | [咨询定制](https://eoht.net/serve/airport/lingdongyun) |
+
+套餐截图标注不限速、不限设备数量，提供专人技术维护，**下单后约 2–3 个工作日交付**；列出的应用场景包括独立站部署、TikTok 直播与跨境定制业务。特殊配置可提交工单咨询，协议扩展与具体资源分配以双方确认内容为准。
+
+<a href="https://eoht.net/serve/airport/lingdongyun" target="_blank" rel="sponsored noreferrer">访问灵动云官网</a> · [查看套餐与使用说明](https://eoht.net/serve/airport/lingdongyun)
+
 <a id="vpn-airport-beginner-guide"></a>
 
 ## VPN 和机场使用教程：科学上网新手完整指南
@@ -2552,11 +2636,11 @@
 
 <a id="custom-client-and-subscription-airports"></a>
 
-### 想使用自研客户端或通用订阅
+### 想使用专用客户端或通用订阅
 
-希望登录后直接使用自研客户端，可以比较[一翻云(1fly)](https://eoht.net/serve/airport/1fly)、[Sogo云](https://eoht.net/serve/airport/sogo)、[闪跃(FlashLeap)](https://eoht.net/serve/airport/flashleap)、[隐云(YinYun)](https://eoht.net/serve/airport/yinyun)和[梯子云(LadderCloud)](https://eoht.net/serve/airport/laddercloud)的客户端模式；需要导入 Clash、Shadowrocket 等工具时，则应在详情页确认是否提供通用订阅以及支持的协议。
+希望使用服务方提供的客户端，可以比较[一翻云(1fly)](https://eoht.net/serve/airport/1fly)、[Sogo云](https://eoht.net/serve/airport/sogo)、[闪跃(FlashLeap)](https://eoht.net/serve/airport/flashleap)、[隐云(YinYun)](https://eoht.net/serve/airport/yinyun)、[梯子云(LadderCloud)](https://eoht.net/serve/airport/laddercloud)和[灵动云(LingDongYun)](https://eoht.net/serve/airport/lingdongyun)的客户端模式；需要导入 Clash、Shadowrocket 等工具时，则应在详情页确认是否提供通用订阅以及支持的协议。
 
-[隐形人(YinXingRen)](https://eoht.net/serve/airport/yinxingren)的通用订阅需联系客服获取，购买前可先确认获取方式与客户端兼容性。
+[隐形人(YinXingRen)](https://eoht.net/serve/airport/yinxingren)和[灵动云(LingDongYun)](https://eoht.net/serve/airport/lingdongyun)的通用订阅需联系客服获取，购买前可先确认获取方式与客户端兼容性。
 
 <a id="best-vpn-and-affordable-airport-summary"></a>
 
