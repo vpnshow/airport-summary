@@ -207,6 +207,8 @@
 | **永久不限时300G** |   **300G**   |    ¥300    | [立即购买](https://eoht.net/serve/airport/xdm) |
 | **永久不限时1TB**  |   **1TB**    |    ¥600    | [立即购买](https://eoht.net/serve/airport/xdm) |
 
+[独立仓库 StarDream](https://github.com/vpnshow/StarDream)
+
 ---
 
 <a id="twilight-airport-review"></a>
@@ -304,6 +306,8 @@
 | **不限时 100GB 来财版** | **100GB** | 不限时，流量用完即止 | ¥36 | 3 台 | [立即购买](https://eoht.net/serve/airport/9yun) |
 | **不限时 300GB 鸿运版** | **300GB** | 不限时，流量用完即止 | ¥99 | 3 台 | [立即购买](https://eoht.net/serve/airport/9yun) |
 
+[独立仓库 9Yun](https://github.com/vpnshow/9Yun)
+
 ---
 
 <a id="宝云-baoyun-机场服务评测"></a>
@@ -352,6 +356,8 @@ SSLAR 采用 IEPL 专线与 BGP 中转，支持 Shadowsocks / VLESS 协议，并
 |  **Basic**   | **100G** | ¥17  | ¥46  | ¥163 | [立即购买](https://eoht.net/serve/airport/sslar) |
 | **Standard** | **200G** | ¥28  | ¥76  | ¥268 | [立即购买](https://eoht.net/serve/airport/sslar) |
 | **Premium**  | **300G** | ¥36  | ¥97  | ¥345 | [立即购买](https://eoht.net/serve/airport/sslar) |
+
+[独立仓库 SSLAR](https://github.com/vpnshow/SSLAR)
 
 ---
 
@@ -405,6 +411,8 @@ SSLAR 采用 IEPL 专线与 BGP 中转，支持 Shadowsocks / VLESS 协议，并
 |     **标准版 Standard**     | **300GB**  |  ¥50   | ¥142.50 |  ¥510  | [立即购买](https://eoht.net/serve/airport/kexin) |
 |       **专业版 Pro**        | **600GB**  |  ¥100  |  ¥285   | ¥1020  | [立即购买](https://eoht.net/serve/airport/kexin) |
 |    **旗舰版 Ultimate**      | **1.2TB**  |  ¥200  |  ¥570   | ¥2040  | [立即购买](https://eoht.net/serve/airport/kexin) |
+
+[独立仓库 KeXin](https://github.com/vpnshow/KeXin)
 
 ---
 
@@ -474,6 +482,8 @@ SSLAR 采用 IEPL 专线与 BGP 中转，支持 Shadowsocks / VLESS 协议，并
 | **高阶专线 · 全球智联** | **750GB** | ¥110 | ¥313.50 | ¥1122 | [立即购买](https://eoht.net/serve/airport/laddercloud) |
 | **顶阶商业 · 全球骨干** | **1.6TB** | ¥190 | ¥541.50 | ¥1938 | [立即购买](https://eoht.net/serve/airport/laddercloud) |
 | **云端独享 · 私人定制专线** | **500GB** | ¥680 | — | — | [立即购买](https://eoht.net/serve/airport/laddercloud) |
+
+[独立仓库 LadderCloud](https://github.com/vpnshow/LadderCloud)
 
 ---
 
@@ -562,6 +572,8 @@ SSLAR 采用 IEPL 专线与 BGP 中转，支持 Shadowsocks / VLESS 协议，并
 | **永久不限时 100GB** | **100GB** | **¥100** | ¥90 | [立即购买](https://eoht.net/serve/airport/edgenova) |
 | **永久不限时 450GB** | **450GB** | **¥399** | ¥359.10 | [立即购买](https://eoht.net/serve/airport/edgenova) |
 
+[独立仓库 EdgeNova](https://github.com/vpnshow/EdgeNova)
+
 ---
 
 <a id="flycat-airport-review"></a>
@@ -621,6 +633,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 | **不限时套餐-强化版** |   **500G**   |    ¥450    | [立即购买](https://eoht.net/serve/airport/sogo) |
 | **不限时套餐-至尊版** |  **1000G**   |    ¥850    | [立即购买](https://eoht.net/serve/airport/sogo) |
 
+[独立仓库 Sogo](https://github.com/vpnshow/Sogo)
+
 ---
 
 <a id="二猫云-2mao-机场服务评测"></a>
@@ -642,6 +656,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 |  **牛奶猫尊享版**  | **430G** | ¥80  | ¥228 | ¥816  | [立即购买](https://eoht.net/serve/airport/2mao) |
 | **黑猫重度用户版** | **850G** | ¥160 | ¥456 | ¥1632 | [立即购买](https://eoht.net/serve/airport/2mao) |
 
+[独立仓库 2mao](https://github.com/vpnshow/2mao)
+
 ---
 
 <a id="快狸-kuaili-机场服务评测"></a>
@@ -662,6 +678,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 | **灵狸标准版** | **250G**  | ¥35  | ¥103 | ¥415  | [立即购买](https://eoht.net/serve/airport/kuaili) |
 | **夜狸强化版** | **500G**  | ¥95  | ¥290 | ¥1025 | [立即购买](https://eoht.net/serve/airport/kuaili) |
 | **天狸顶配版** | **1000G** | ¥180 | ¥535 | ¥2140 | [立即购买](https://eoht.net/serve/airport/kuaili) |
+
+[独立仓库 KuaiLi](https://github.com/vpnshow/KuaiLi)
 
 ---
 
@@ -731,6 +749,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 | **钻石穹顶** | **1.6TB** | ¥185 | ¥527.25 | ¥1887 | [立即购买](https://eoht.net/serve/airport/yinxingren) |
 | **王者定制版** | **500GB** | ¥680 | — | — | [立即购买](https://eoht.net/serve/airport/yinxingren) |
 
+[独立仓库 YinXingRen](https://github.com/vpnshow/YinXingRen)
+
 ---
 
 <a id="shandian-airport-review"></a>
@@ -782,6 +802,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 |:--------------------:|:------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------:|
 | **静态住宅 IP** | ¥199/个/月 | 真实 ISP 分配的原生 IP，覆盖 20+ 国家和地区，99% 在线率；适合养号、直播与电商等场景，基准速度 100Mbps+，限制跟随主套餐 | [立即购买](https://eoht.net/serve/airport/yinyun) |
 |   **按需定制**   | ¥999/月起 |                    专属方案、灵活配置与专属客服                    | [立即购买](https://eoht.net/serve/airport/yinyun) |
+
+[独立仓库 YinYun](https://github.com/vpnshow/YinYun)
 
 ---
 
@@ -918,6 +940,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 |   **光速版**   | **500G**  | ¥100 |  ¥285  | ¥1020 | [立即购买](https://eoht.net/serve/airport/sujie) |
 |   **跃迁版**   | **1000G** | ¥200 |  ¥570  | ¥2040 | [立即购买](https://eoht.net/serve/airport/sujie) |
 
+[独立仓库 SuJie](https://github.com/vpnshow/SuJie)
+
 ---
 
 <a id="quanqiuyun-airport-review"></a>
@@ -974,6 +998,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 | **尊享版** | **600G** | ¥55  | ¥155 | ¥498 | [立即购买](https://eoht.net/serve/airport/1fly) |
 | **极致版** | **1.2T** | ¥95  | ¥268 | ¥888 | [立即购买](https://eoht.net/serve/airport/1fly) |
 
+[独立仓库 1fly](https://github.com/vpnshow/1fly)
+
 ---
 
 <a id="yuntu-airport-review"></a>
@@ -1020,6 +1046,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 |   **飞跃(Leap)**   | **300G** | ¥44  | ¥118 | ¥442  | [立即购买](https://eoht.net/serve/airport/flashleap) |
 | **瞬移(Teleport)** | **600G** | ¥84  | ¥226 | ¥806  | [立即购买](https://eoht.net/serve/airport/flashleap) |
 |   **跃迁(Warp)**   |  **1T**  | ¥134 | ¥369 | ¥1315 | [立即购买](https://eoht.net/serve/airport/flashleap) |
+
+[独立仓库 FlashLeap](https://github.com/vpnshow/FlashLeap)
 
 ---
 
@@ -1088,6 +1116,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 |  **星系专业版**  | **500G** | ¥100  | ¥285 | ¥980  | [立即购买](https://eoht.net/serve/airport/yuzhou) |
 |  **寰宇旗舰版**  |  **1T**  | ¥200  | ¥570 | ¥1980 | [立即购买](https://eoht.net/serve/airport/yuzhou) |
 
+[独立仓库 YuZhou](https://github.com/vpnshow/YuZhou)
+
 ---
 
 <a id="echo机场服务评测"></a>
@@ -1107,6 +1137,8 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 |  **Standard**  | **150G**  | ¥19  | ¥51  | ¥182 | [立即购买](https://eoht.net/serve/airport/echo) |
 |  **Premium**   | **300G**  | ¥36  | ¥97  | ¥345 | [立即购买](https://eoht.net/serve/airport/echo) |
 | **Enterprise** | **1500G** | ¥180 |  -   |  -   | [立即购买](https://eoht.net/serve/airport/echo) |
+
+[独立仓库 Echo](https://github.com/vpnshow/Echo)
 
 ---
 
@@ -1131,6 +1163,8 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 |    套餐类型    | 流量(不限时) | 一次性费用 |                                                      套餐购买                                                       |
 |:--------------:|:------------:|:----------:|:-------------------------------------------------------------------------------------------------------------------:|
 | **不限时套餐** |   **1TB**    |    ¥680    | [立即购买](https://eoht.net/serve/airport/lightspeed) |
+
+[独立仓库 LightSpeed](https://github.com/vpnshow/LightSpeed)
 
 ---
 
@@ -1246,6 +1280,8 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 |:----------:|:---------:|:----:|:----------------------------------------------------------------------------------------------------------------:|
 | **不限时** | **100GB** | ¥100 | [立即购买](https://eoht.net/serve/airport/firefly) |
 
+[独立仓库 Firefly](https://github.com/vpnshow/Firefly)
+
 ---
 
 <a id="有一说一-u1s1-机场服务评测"></a>
@@ -1291,6 +1327,8 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 | **基础** | **100G** | ¥15  | ¥42  | ¥144 | [立即购买](https://eoht.net/serve/airport/keda) |
 | **标准** | **200G** | ¥25  | ¥72  | ¥240 | [立即购买](https://eoht.net/serve/airport/keda) |
 | **高级** | **300G** | ¥32  | ¥86  | ¥307 | [立即购买](https://eoht.net/serve/airport/keda) |
+
+[独立仓库 KeDa](https://github.com/vpnshow/KeDa)
 
 ---
 
