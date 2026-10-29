@@ -191,7 +191,7 @@
 
 <a href="https://eoht.net/serve/airport/xdm" target="_blank" rel="sponsored noreferrer" aria-label="访问星岛梦官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/xdm) · **最低月付：¥25 · 150GB/月** · 通用订阅：✅ · 按量包：✅
 
-星岛梦提供直连与 IPLC 线路，支持主流代理客户端，套餐涵盖按月流量和不限时流量包。
+星岛梦提供 **6 Gbps 带宽**、直连与 IPLC 线路，支持主流代理客户端，套餐涵盖按月流量和不限时流量包。
 
 |   套餐类型   |  流量/月  | 月付 | 季付 | 年付  |                                                   套餐购买                                                   |
 |:------------:|:---------:|:----:|:----:|:-----:|:------------------------------------------------------------------------------------------------------------:|
@@ -251,7 +251,7 @@
 
 <a href="https://eoht.net/serve/airport/breeze" target="_blank" rel="sponsored noreferrer" aria-label="访问微风网络官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/breeze) · **最低月付：¥27 · 200GB/月** · 通用订阅：✅ · 按量包：✅
 
-微风网络采用三网优化入口与 IPLC 专线，支持通用订阅，提供周期套餐及不限时流量包，不限制设备同时接入。
+微风网络提供 **6 Gbps 带宽**，采用三网优化入口与 IPLC 专线，支持通用订阅，提供周期套餐及不限时流量包，不限制设备同时接入。
 
 | 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 套餐购买 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -349,7 +349,7 @@
 
 <a href="https://eoht.net/serve/airport/sslar" target="_blank" rel="sponsored noreferrer" aria-label="访问SSLAR官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/sslar) · **最低月付：¥17 · 100GB/月** · 通用订阅：✅ · 按量包：❌
 
-SSLAR 采用 IEPL 专线与 BGP 中转，支持 Shadowsocks / VLESS 协议，并提供 Windows、macOS 和 Android 专属客户端。
+SSLAR 提供 **2.5 Gbps 带宽**，采用 IEPL 专线与 BGP 中转，支持 Shadowsocks / VLESS 协议，并提供 Windows、macOS 和 Android 专属客户端。
 
 |   套餐类型   | 流量/月  | 月付 | 季付 | 年付 |                                                     套餐购买                                                     |
 | :----------: | :------: | :--: | :--: | :--: | :--------------------------------------------------------------------------------------------------------------: |
@@ -367,7 +367,7 @@ SSLAR 采用 IEPL 专线与 BGP 中转，支持 Shadowsocks / VLESS 协议，并
 
 <a href="https://eoht.net/serve/airport/weitu" target="_blank" rel="sponsored noreferrer" aria-label="访问唯兔云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/weitu) · **最低月付：¥14.90 · 100GB/月** · 通用订阅：✅ · 按量包：✅ · 仅指定节日开放 · 常规月付 ¥19.90 起
 
-唯兔云提供 IPLC 与 IEPL 套餐、VLESS 通用订阅和不限时流量包，均按 1 倍率计费，节日限时套餐仅在指定节日开放购买。
+唯兔云提供 **6 Gbps 带宽**、IPLC 与 IEPL 套餐、VLESS 通用订阅和不限时流量包，均按 1 倍率计费，节日限时套餐仅在指定节日开放购买。
 
 **周期套餐**
 
@@ -401,7 +401,7 @@ SSLAR 采用 IEPL 专线与 BGP 中转，支持 Shadowsocks / VLESS 协议，并
 
 <a href="https://eoht.net/serve/airport/kexin" target="_blank" rel="sponsored noreferrer" aria-label="访问可信云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/kexin) · **最低月付：¥15 · 60GB/月** · 通用订阅：✅ · 按量包：❌
 
-可信云主打全 IEPL 专线与多地区节点，提供月付、年付小包，以及每月 150GB 至 1.2TB 的常规套餐。
+可信云提供 **6 Gbps 带宽**，主打全 IEPL 专线与多地区节点，提供月付、年付小包，以及每月 150GB 至 1.2TB 的常规套餐。
 
 |          套餐类型           |  流量/月   |  月付  |  季付   |  年付  |                                                     套餐购买                                                     |
 |:---------------------------:|:----------:|:------:|:-------:|:------:|:----------------------------------------------------------------------------------------------------------------:|
@@ -452,7 +452,7 @@ SSLAR 采用 IEPL 专线与 BGP 中转，支持 Shadowsocks / VLESS 协议，并
 
 <a href="https://eoht.net/serve/airport/spiritcat" target="_blank" rel="sponsored noreferrer" aria-label="访问灵猫网络官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/spiritcat) · **最低月付：¥25 · 150GB/月** · 通用订阅：✅ · 按量包：❌
 
-灵猫网络采用 IPLC 专线与 VLESS 协议，支持通用订阅和 1 倍率计费，提供年付小包及按月重置的常规套餐。
+灵猫网络提供 **6 Gbps 带宽**，采用 IPLC 专线与 VLESS 协议，支持通用订阅和 1 倍率计费，提供年付小包及按月重置的常规套餐。
 
 | 套餐类型 | 流量/月 | 月付 | 季付 | 年付 | 套餐购买 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -551,7 +551,7 @@ SSLAR 采用 IEPL 专线与 BGP 中转，支持 Shadowsocks / VLESS 协议，并
 
 <a href="https://eoht.net/serve/airport/edgenova" target="_blank" rel="sponsored noreferrer" aria-label="访问边缘节点官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/edgenova) · **最低月付：¥15 · 50GB/月** · 通用订阅：✅ · 按量包：✅ · 限时体验套餐，不参与优惠
 
-边缘节点采用 IPLC 专线，套餐统一 1 倍率且不限设备数量，提供周期套餐与支持付费重置的不限时流量包。
+边缘节点提供 **6 Gbps 带宽**，采用 IPLC 专线，套餐统一 1 倍率且不限设备数量，提供周期套餐与支持付费重置的不限时流量包。
 
 **周期套餐**
 
@@ -582,7 +582,7 @@ SSLAR 采用 IEPL 专线与 BGP 中转，支持 Shadowsocks / VLESS 协议，并
 
 <a href="https://eoht.net/serve/airport/flycat" target="_blank" rel="sponsored noreferrer" aria-label="访问飞猫云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/flycat) · **最低月付：¥25 · 150GB/月** · 通用订阅：✅ · 按量包：✅
 
-飞猫云主打 IEPL 专线，提供自研客户端和通用订阅，套餐涵盖年付小包、周期套餐、不限时流量包及专属定制。
+飞猫云提供 **2.5 Gbps 带宽**，主打 IEPL 专线，提供自研客户端和通用订阅，套餐涵盖年付小包、周期套餐、不限时流量包及专属定制。
 
 | 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 套餐购买 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -929,7 +929,7 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/sujie" target="_blank" rel="sponsored noreferrer" aria-label="访问速界官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/sujie) · **最低月付：¥15 · 50GB/月** · 通用订阅：✅ · 按量包：❌ · 单月试用套餐
 
-速界主打端到端 IEPL 专线，兼容主流代理客户端，套餐包括单月试用、年付体验包及多档月度流量方案。
+速界提供 **2.5 Gbps 带宽**，主打端到端 IEPL 专线，兼容主流代理客户端，套餐包括单月试用、年付体验包及多档月度流量方案。
 
 |    套餐类型    |  流量/月  | 月付 |  季付  | 年付  |                                                    套餐购买                                                    |
 |:--------------:|:---------:|:----:|:------:|:-----:|:--------------------------------------------------------------------------------------------------------------:|
@@ -950,7 +950,7 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/quanqiuyun" target="_blank" rel="sponsored noreferrer" aria-label="访问全球云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/quanqiuyun) · **最低月付：¥20 · 120GB/月** · 通用订阅：✅ · 按量包：✅
 
-全球云采用 Shadowsocks 协议，服务介绍列有 IPLC、IEPL 专线与 BGP 三网优化，提供周期套餐、不限时流量包和独享节点。
+全球云提供 **6 Gbps 带宽**，采用 Shadowsocks 协议，服务介绍列有 IPLC、IEPL 专线与 BGP 三网优化，提供周期套餐、不限时流量包和独享节点。
 
 **周期套餐**
 
@@ -1037,7 +1037,7 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/flashleap" target="_blank" rel="sponsored noreferrer" aria-label="访问闪跃官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/flashleap) · **最低月付：¥24 · 150GB/月** · 通用订阅：✅ · 按量包：❌
 
-闪跃采用 IPLC 线路，提供定制客户端与通用订阅，所有套餐标注 1 倍率，涵盖轻量年付和多档月度流量。
+闪跃提供 **6 Gbps 带宽**，采用 IPLC 线路，提供定制客户端与通用订阅，所有套餐标注 1 倍率，涵盖轻量年付和多档月度流量。
 
 |      套餐类型      | 流量/月  | 月付 | 季付 | 年付  |                                                      套餐购买                                                      |
 |:------------------:|:--------:|:----:|:----:|:-----:|:------------------------------------------------------------------------------------------------------------------:|
@@ -1206,7 +1206,7 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 
 <a href="https://eoht.net/serve/airport/wuyou" target="_blank" rel="sponsored noreferrer" aria-label="访问无忧链接官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/wuyou) · **最低月付：¥19 · 100GB/月** · 通用订阅：✅ · 按量包：✅
 
-无忧链接采用 IPLC 专线与 VLESS 协议，兼容支持该协议的主流客户端，提供月度套餐、年付小包及不限时流量包。
+无忧链接提供 **6 Gbps 带宽**，采用 IPLC 专线与 VLESS 协议，兼容支持该协议的主流客户端，提供月度套餐、年付小包及不限时流量包。
 
 |   套餐类型   |      流量       | 月付 | 季付 |  年付/一次性  |                                                    套餐购买                                                     |
 |:------------:|:---------------:|:----:|:----:|:-------------:|:---------------------------------------------------------------------------------------------------------------:|
@@ -1266,7 +1266,7 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 
 <a href="https://eoht.net/serve/airport/firefly" target="_blank" rel="sponsored noreferrer" aria-label="访问飞为官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/firefly) · **最低月付：¥25 · 150GB/月** · 通用订阅：✅ · 按量包：✅
 
-飞为主打 IPLC 专线与 VLESS 协议，提供年付小包、周期套餐、不限时流量包及企业定制方案。
+飞为提供 **6 Gbps 带宽**，主打 IPLC 专线与 VLESS 协议，提供年付小包、周期套餐、不限时流量包及企业定制方案。
 
 |  套餐类型  |  流量/月   | 月付 | 季付 | 年付  |                                                     套餐购买                                                     |
 |:----------:|:----------:|:----:|:----:|:-----:|:----------------------------------------------------------------------------------------------------------------:|
@@ -1320,7 +1320,7 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 
 <a href="https://eoht.net/serve/airport/keda" target="_blank" rel="sponsored noreferrer" aria-label="访问可达官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/keda) · **最低月付：¥15 · 100GB/月** · 通用订阅：✅ · 按量包：❌
 
-可达采用 SD-WAN 网络架构并支持主流代理客户端，提供每月 100GB、200GB 和 300GB 三档流量套餐。
+可达提供 **2.5 Gbps 带宽**，采用 SD-WAN 网络架构并支持主流代理客户端，提供每月 100GB、200GB 和 300GB 三档流量套餐。
 
 | 套餐类型 | 流量/月  | 月付 | 季付 | 年付 |                                                   套餐购买                                                    |
 |:--------:|:--------:|:----:|:----:|:----:|:-------------------------------------------------------------------------------------------------------------:|
