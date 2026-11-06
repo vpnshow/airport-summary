@@ -333,7 +333,7 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 ### 边缘节点(EdgeNova)
 
-<a href="https://eoht.net/serve/airport/edgenova" target="_blank" rel="sponsored noreferrer" aria-label="访问边缘节点官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/edgenova) · **最低月付：¥15 · 50GB/月** · 通用订阅：✅ · 按量包：✅ · 限时体验套餐，不参与优惠
+<a href="https://eoht.net/serve/airport/edgenova" target="_blank" rel="sponsored noreferrer" aria-label="访问边缘节点官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/edgenova) · **最低月付：¥15 · 50GB/月** · 通用订阅：✅ · 按量包：✅ · 限时体验套餐，不参与专属优惠
 
 边缘节点提供 **6 Gbps 带宽**，采用 IPLC 专线，套餐统一 1 倍率且不限设备数量，提供周期套餐与支持付费重置的不限时流量包。
 
