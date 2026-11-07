@@ -44,6 +44,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | [星岛梦(StarDream)](#stardream-airport-review) | [前往官网](https://eoht.net/serve/airport/xdm) | ¥8 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/xdm" aria-label="查看星岛梦完整详情">前往详情</a> |
 | [闪电鼠(ShanDian)](#shandian-airport-review) | [前往官网](https://eoht.net/serve/airport/shandian) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/shandian" aria-label="查看闪电鼠完整详情">前往详情</a> |
+| [神行云(ShenXingYun)](#shenxing-airport-review) | [前往官网](https://eoht.net/serve/airport/shenxing) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/shenxing" aria-label="查看神行云完整详情">前往详情</a> |
 | [Sogo云](#sogo-airport-review) | [前往官网](https://eoht.net/serve/airport/sogo) | 约¥8.17 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/sogo" aria-label="查看 Sogo云完整详情">前往详情</a> |
 | <a href="#2mao-airport-review">二猫云(2mao)</a> | [前往官网](https://eoht.net/serve/airport/2mao) | 约¥7.42 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/2mao" aria-label="查看二猫云完整详情">前往详情</a> |
 | [宇宙云(YuZhou)](#yuzhou-airport-review) | [前往官网](https://eoht.net/serve/airport/yuzhou) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/yuzhou" aria-label="查看宇宙云完整详情">前往详情</a> |
@@ -68,7 +69,6 @@
 | [云界线(YunJieXian)](#yunjiexian-airport-review) | [前往官网](https://eoht.net/serve/airport/yunjiexian) | ¥8 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/yunjiexian" aria-label="查看云界线完整详情">前往详情</a> |
 | [云图机场(YunTu)](#yuntu-airport-review) | [前往官网](https://eoht.net/serve/airport/yuntu) | ¥20 · 150GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/yuntu" aria-label="查看云图机场完整详情">前往详情</a> |
 | [榴莲云(LiuLianYun)](#liulianyun-airport-review) | [前往官网](https://eoht.net/serve/airport/liulianyun) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/liulianyun" aria-label="查看榴莲云完整详情">前往详情</a> |
-| [神行云(ShenXingYun)](#shenxing-airport-review) | [前往官网](https://eoht.net/serve/airport/shenxing) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/shenxing" aria-label="查看神行云完整详情">前往详情</a> |
 | [杏花云(XingHua)](#xinghua-airport-review) | [前往官网](https://eoht.net/serve/airport/xinghua) | ¥1 · 50GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/xinghua" aria-label="查看杏花云完整详情">前往详情</a> |
 | [环球梯(HuanQiu)](#huanqiu-airport-review) | [前往官网](https://eoht.net/serve/airport/huanqiu) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/huanqiu" aria-label="查看环球梯完整详情">前往详情</a> |
 | [灵动云(LingDongYun)](#lingdongyun-airport-review) | [前往官网](https://eoht.net/serve/airport/lingdongyun) | ¥8.25 · 70GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/lingdongyun" aria-label="查看灵动云完整详情">前往详情</a> |
@@ -227,6 +227,25 @@
 | **雷霆版** | **500GB** | **¥70** | **¥189** | **¥672** | [立即购买](https://eoht.net/serve/airport/shandian) |
 
 [独立仓库 ShanDian](https://github.com/vpnshow/ShanDian)
+
+---
+
+<a id="shenxing-airport-review"></a>
+
+### 神行云(ShenXingYun)
+
+<a href="https://eoht.net/serve/airport/shenxing" target="_blank" rel="sponsored noreferrer" aria-label="访问神行云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/shenxing) · **最低月付：¥23 · 120GB/月** · 通用订阅：✅ · 按量包：❌
+
+神行云采用 VLESS 协议，常规套餐标注 IPLC、年付特惠版标注 IEPL，提供自研客户端，通用订阅需联系客服获取。
+
+| 套餐类型 | 流量/月 | 付款周期 | 标价 | 套餐购买 |
+|:---:|:---:|:---:|:---:|:---:|
+| **神行·年付特惠版** | **60GB** | 年付 | **¥96/年** | [立即购买](https://eoht.net/serve/airport/shenxing) |
+| **神行·尝鲜包** | **120GB** | 月付 | **¥23/月** | [立即购买](https://eoht.net/serve/airport/shenxing) |
+| **神行·基础包** | **260GB** | 月付 | **¥40/月** | [立即购买](https://eoht.net/serve/airport/shenxing) |
+| **神行·尊享包** | **520GB** | 月付 | **¥72/月** | [立即购买](https://eoht.net/serve/airport/shenxing) |
+
+[独立仓库 ShenXingYun](https://github.com/vpnshow/ShenXingYun)
 
 ---
 
@@ -851,25 +870,6 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 | **榴莲王** | **750GB** | ¥100 | ¥270 | ¥510 | ¥960 | ¥1680 | [立即购买](https://eoht.net/serve/airport/liulianyun) |
 
 [独立仓库 LiuLianYun](https://github.com/vpnshow/LiuLianYun)
-
----
-
-<a id="shenxing-airport-review"></a>
-
-### 神行云(ShenXingYun)
-
-<a href="https://eoht.net/serve/airport/shenxing" target="_blank" rel="sponsored noreferrer" aria-label="访问神行云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/shenxing) · **最低月付：¥23 · 120GB/月** · 通用订阅：✅ · 按量包：❌
-
-神行云采用 VLESS 协议，常规套餐标注 IPLC、年付特惠版标注 IEPL，提供自研客户端，通用订阅需联系客服获取。
-
-| 套餐类型 | 流量/月 | 付款周期 | 标价 | 套餐购买 |
-|:---:|:---:|:---:|:---:|:---:|
-| **神行·年付特惠版** | **60GB** | 年付 | **¥96/年** | [立即购买](https://eoht.net/serve/airport/shenxing) |
-| **神行·尝鲜包** | **120GB** | 月付 | **¥23/月** | [立即购买](https://eoht.net/serve/airport/shenxing) |
-| **神行·基础包** | **260GB** | 月付 | **¥40/月** | [立即购买](https://eoht.net/serve/airport/shenxing) |
-| **神行·尊享包** | **520GB** | 月付 | **¥72/月** | [立即购买](https://eoht.net/serve/airport/shenxing) |
-
-[独立仓库 ShenXingYun](https://github.com/vpnshow/ShenXingYun)
 
 ---
 
