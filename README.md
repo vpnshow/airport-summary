@@ -2,7 +2,7 @@
 
 <a id="vpn-airport-recommendation-guide"></a>
 
-# 2026年翻墙VPN机场推荐评测与科学上网指南：便宜好用的推荐机场名单（长期更新，欢迎推荐）
+# 2026年推荐机场翻墙VPN评测与科学上网指南：便宜好用的机场推荐名单（长期更新，欢迎推荐）
 
 本页汇总机场的**年付折算价、每月流量、不限时套餐、订阅支持与套餐表格**，帮助按预算和使用需求筛选方案。下方按机场列出一句简介与套餐价格，优惠条件、详细线路和测速记录可进入对应详情页查看。
 
@@ -15,12 +15,13 @@
 > [!TIP]
 > **先按需求快速筛选**
 >
-> - **想快速查看一览表**：直接前往[机场套餐对比表](#vpn-airport-plan-comparison)，对比月均折算价、不限时流量包、通用订阅和详情页。
-> - **想先试再买**：Echo 页面列有 5GB / 3 小时试用，可先[查看 Echo 套餐与测速](https://eoht.net/serve/airport/echo)。
-> - **想买一次性流量包**：可比较[星岛梦](https://eoht.net/serve/airport/xdm)、[Sogo云](https://eoht.net/serve/airport/sogo)、[光速云](https://eoht.net/serve/airport/lightspeed)、[飞为(Firefly)](https://eoht.net/serve/airport/firefly)、[无忧链接](https://eoht.net/serve/airport/wuyou)和[九云机场(9Yun)](https://eoht.net/serve/airport/9yun)。
-> - **想用专属或自研客户端**：可比较[Sogo云](https://eoht.net/serve/airport/sogo)、[一翻云](https://eoht.net/serve/airport/1fly)、[闪跃](https://eoht.net/serve/airport/flashleap)、[梯子云(LadderCloud)](https://eoht.net/serve/airport/laddercloud)、[灵动云(LingDongYun)](https://eoht.net/serve/airport/lingdongyun)与[隐云](https://eoht.net/serve/airport/yinyun)。
-> - **想比较 IEPL 专线与大流量**：可查看[可信云(KeXin)](https://eoht.net/serve/airport/kexin)的 60GB 至 1.2TB 套餐和测速记录。
-> - **想按线路选择**：先看[直连、中转、IPLC 与 IEPL 怎么选](https://eoht.net/serve/routes/selection)，再回到对应详情页核对套餐。
+> - **先试再买**：[查看 Echo 试用与套餐](#echo-airport-review)。
+> - **按量使用或备用**：[比较低频与备用方案](#budget-and-backup-vpn-airports)。
+> - **ChatGPT、Gemini 等 AI 工具**：[按 AI 使用场景选择](#ai-vpn-airports)。
+> - **Netflix、YouTube 等流媒体**：[按观影需求选择](#streaming-vpn-airports)。
+> - **专用客户端或通用订阅**：[核对客户端与订阅方式](#custom-client-and-subscription-airports)。
+> - **远程办公与大流量**：[比较晚高峰与高流量方案](#work-and-high-traffic-vpn-airports)。
+> - **查看完整比较**：[机场套餐对比表](#vpn-airport-plan-comparison) · [线路选择指南](https://eoht.net/serve/routes/selection)。
 >
 
 <a id="机场套餐快速对比"></a>
@@ -29,62 +30,62 @@
 
 ## 机场套餐对比表
 
-点击表格中的**机场名称**可跳转至本页对应机场介绍；点击**“前往详情”**可查看完整详情页。
+点击**机场名称**可跳到本页介绍，点击**“前往详情”**可查看完整详情。若表格显示不全，手机可左右滑动，电脑可横向滚动查看其余列。
 
 <details>
 <summary>表格说明</summary>
 
-- **最便宜年付**：按当前最低年付套餐总额除以 12，并同时列出每月流量。月均折算价不等于月付价格，购买时仍需一次支付全年费用。
+- **最低年付（月均）**按最低年付套餐的全年标价除以 12 计算，未扣除优惠码折扣。金额旁标注每月流量，购买时需一次支付全年费用。
 - **不限时**：✅ 表示提供一次性不限时流量包，❌ 表示暂未提供。这类套餐为固定总流量用完为止，不等于无限流量。
 - **通用订阅**：✅ 表示支持将订阅导入兼容客户端；部分机场或套餐需要联系客服获取通用订阅地址，购买前请在详情页或官网确认。
 
 </details>
 
-| 名称 | 官网 | 最便宜年付 | 不限时 | 通用订阅 | 详情 |
+| 名称 | 官网 | 详情 | 最低年付（月均） | 不限时 | 通用订阅 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| [星岛梦(StarDream)](#stardream-airport-review) | [前往官网](https://eoht.net/serve/airport/xdm) | ¥8 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/xdm" aria-label="查看星岛梦完整详情">前往详情</a> |
-| [闪电鼠(ShanDian)](#shandian-airport-review) | [前往官网](https://eoht.net/serve/airport/shandian) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/shandian" aria-label="查看闪电鼠完整详情">前往详情</a> |
-| [云界线(YunJieXian)](#yunjiexian-airport-review) | [前往官网](https://eoht.net/serve/airport/yunjiexian) | ¥8 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/yunjiexian" aria-label="查看云界线完整详情">前往详情</a> |
-| [神行云(ShenXingYun)](#shenxing-airport-review) | [前往官网](https://eoht.net/serve/airport/shenxing) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/shenxing" aria-label="查看神行云完整详情">前往详情</a> |
-| [Sogo云](#sogo-airport-review) | [前往官网](https://eoht.net/serve/airport/sogo) | 约¥8.17 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/sogo" aria-label="查看 Sogo云完整详情">前往详情</a> |
-| <a href="#2mao-airport-review">二猫云(2mao)</a> | [前往官网](https://eoht.net/serve/airport/2mao) | 约¥7.42 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/2mao" aria-label="查看二猫云完整详情">前往详情</a> |
-| [宇宙云(YuZhou)](#yuzhou-airport-review) | [前往官网](https://eoht.net/serve/airport/yuzhou) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/yuzhou" aria-label="查看宇宙云完整详情">前往详情</a> |
-| <a href="#1fly-airport-review">一翻云(1fly)</a> | [前往官网](https://eoht.net/serve/airport/1fly) | 约¥8.17 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/1fly" aria-label="查看一翻云完整详情">前往详情</a> |
-| [边缘节点(EdgeNova)](#edgenova-airport-review) | [前往官网](https://eoht.net/serve/airport/edgenova) | 约¥8.17 · 45GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/edgenova" aria-label="查看边缘节点完整详情">前往详情</a> |
-| [快狸(KuaiLi)](#kuaili-airport-review) | [前往官网](https://eoht.net/serve/airport/kuaili) | ¥10 · 30GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/kuaili" aria-label="查看快狸完整详情">前往详情</a> |
-| [暮光网络(TwiLight)](#twilight-airport-review) | [前往官网](https://eoht.net/serve/airport/twilight) | 约¥9.08 · 70GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/twilight" aria-label="查看暮光网络完整详情">前往详情</a> |
-| [微风网络(Breeze)](#breeze-airport-review) | [前往官网](https://eoht.net/serve/airport/breeze) | 约¥11.42 · 100GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/breeze" aria-label="查看微风网络完整详情">前往详情</a> |
-| [飞猫云(FlyCat)](#flycat-airport-review) | [前往官网](https://eoht.net/serve/airport/flycat) | ¥7 · 50GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/flycat" aria-label="查看飞猫云完整详情">前往详情</a> |
-| [光速云(LightSpeed)](#lightspeed-airport-review) | [前往官网](https://eoht.net/serve/airport/lightspeed) | ¥8.25 · 59GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/lightspeed" aria-label="查看光速云完整详情">前往详情</a> |
-| [速界(SuJie)](#sujie-airport-review) | [前往官网](https://eoht.net/serve/airport/sujie) | ¥7.5 · 50GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/sujie" aria-label="查看速界完整详情">前往详情</a> |
-| [可达(KeDa)](#keda-airport-review) | [前往官网](https://eoht.net/serve/airport/keda) | ¥12 · 100GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/keda" aria-label="查看可达完整详情">前往详情</a> |
-| [飞为(Firefly)](#firefly-airport-review) | [前往官网](https://eoht.net/serve/airport/firefly) | ¥8 · 60GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/firefly" aria-label="查看飞为完整详情">前往详情</a> |
-| [闪跃(FlashLeap)](#flashleap-airport-review) | [前往官网](https://eoht.net/serve/airport/flashleap) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/flashleap" aria-label="查看闪跃完整详情">前往详情</a> |
-| [无忧链接(WuYou)](#wuyou-airport-review) | [前往官网](https://eoht.net/serve/airport/wuyou) | 约¥6.58 · 40GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/wuyou" aria-label="查看无忧链接完整详情">前往详情</a> |
-| [隐形人(YinXingRen)](#yinxingren-airport-review) | [前往官网](https://eoht.net/serve/airport/yinxingren) | 约¥9.08 · 80GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/yinxingren" aria-label="查看隐形人完整详情">前往详情</a> |
-| [梯子云(LadderCloud)](#laddercloud-airport-review) | [前往官网](https://eoht.net/serve/airport/laddercloud) | 约¥7.42 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/laddercloud" aria-label="查看梯子云完整详情">前往详情</a> |
-| <a href="#9yun-airport-review">九云机场(9Yun)</a> | [前往官网](https://eoht.net/serve/airport/9yun) | 约¥5.67 · 200GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/9yun" aria-label="查看九云机场完整详情">前往详情</a> |
-| [宝云(BaoYun)](#baoyun-airport-review) | [前往官网](https://eoht.net/serve/airport/baoyun) | ¥4 · 200GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/baoyun" aria-label="查看宝云完整详情">前往详情</a> |
-| [有一说一(U1S1)](#u1s1-airport-review) | [前往官网](https://eoht.net/serve/airport/u1s1) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/u1s1" aria-label="查看有一说一完整详情">前往详情</a> |
-| [灵猫网络(SpiritCat)](#spiritcat-airport-review) | [前往官网](https://eoht.net/serve/airport/spiritcat) | 约¥7.08 · 45GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/spiritcat" aria-label="查看灵猫网络完整详情">前往详情</a> |
-| [云图机场(YunTu)](#yuntu-airport-review) | [前往官网](https://eoht.net/serve/airport/yuntu) | ¥20 · 150GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/yuntu" aria-label="查看云图机场完整详情">前往详情</a> |
-| [榴莲云(LiuLianYun)](#liulianyun-airport-review) | [前往官网](https://eoht.net/serve/airport/liulianyun) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/liulianyun" aria-label="查看榴莲云完整详情">前往详情</a> |
-| [杏花云(XingHua)](#xinghua-airport-review) | [前往官网](https://eoht.net/serve/airport/xinghua) | ¥1 · 50GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/xinghua" aria-label="查看杏花云完整详情">前往详情</a> |
-| [环球梯(HuanQiu)](#huanqiu-airport-review) | [前往官网](https://eoht.net/serve/airport/huanqiu) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/huanqiu" aria-label="查看环球梯完整详情">前往详情</a> |
-| [灵动云(LingDongYun)](#lingdongyun-airport-review) | [前往官网](https://eoht.net/serve/airport/lingdongyun) | ¥8.25 · 70GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/lingdongyun" aria-label="查看灵动云完整详情">前往详情</a> |
-| [隐云(YinYun)](#yinyun-airport-review) | [前往官网](https://eoht.net/serve/airport/yinyun) | 约¥22.83 · 150GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/yinyun" aria-label="查看隐云完整详情">前往详情</a> |
-| [SSLAR](#sslar-airport-review) | [前往官网](https://eoht.net/serve/airport/sslar) | 约¥13.58 · 100GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/sslar" aria-label="查看 SSLAR 完整详情">前往详情</a> |
-| [唯兔云(WeiTuYun)](#weitu-airport-review) | [前往官网](https://eoht.net/serve/airport/weitu) | 约¥6.66 · 45GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/weitu" aria-label="查看唯兔云完整详情">前往详情</a> |
-| [全球云(QuanQiuYun)](#quanqiuyun-airport-review) | [前往官网](https://eoht.net/serve/airport/quanqiuyun) | ¥8.25 · 59GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/quanqiuyun" aria-label="查看全球云完整详情">前往详情</a> |
-| [Echo](#echo-airport-review) | [前往官网](https://eoht.net/serve/airport/echo) | ¥8 · 80GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/echo" aria-label="查看 Echo 完整详情">前往详情</a> |
-| [可信云(KeXin)](#kexin-airport-review) | [前往官网](https://eoht.net/serve/airport/kexin) | ¥8 · 60GB/月 | ❌ | ✅ | <a href="https://eoht.net/serve/airport/kexin" aria-label="查看可信云完整详情">前往详情</a> |
-| [鲤云(LiYun)](#liyun-airport-review) | [前往官网](https://eoht.net/serve/airport/liyun) | ¥7 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/liyun" aria-label="查看鲤云完整详情">前往详情</a> |
-| [锦云(JinYun)](#jinyun-airport-review) | [前往官网](https://eoht.net/serve/airport/jinyun) | ¥6 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/jinyun" aria-label="查看锦云完整详情">前往详情</a> |
-| [秒秒云(MiaoMiao)](#miaomiao-airport-review) | [前往官网](https://eoht.net/serve/airport/miaomiao) | 约¥6.58 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/miaomiao" aria-label="查看秒秒云完整详情">前往详情</a> |
-| [山水云(SSY)](#ssy-airport-review) | [前往官网](https://eoht.net/serve/airport/ssy) | 约¥7.33 · 64GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/ssy" aria-label="查看山水云完整详情">前往详情</a> |
-| [熊猫云(XiongMao)](#xiongmao-airport-review) | [前往官网](https://eoht.net/serve/airport/xiongmao) | ¥6 · 300GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/xiongmao" aria-label="查看熊猫云完整详情">前往详情</a> |
-| [极速云(JiSu)](#jisu-airport-review) | [前往官网](https://eoht.net/serve/airport/jisu) | 约¥26.67 · 500GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/jisu" aria-label="查看极速云完整详情">前往详情</a> |
-| [安迪云(AnDy)](#andy-airport-review) | [前往官网](https://eoht.net/serve/airport/andy) | ¥2.50 · 50GB/月 | ✅ | ✅ | <a href="https://eoht.net/serve/airport/andy" aria-label="查看安迪云完整详情">前往详情</a> |
+| [星岛梦(StarDream)](#stardream-airport-review) | [前往官网](https://eoht.net/serve/airport/xdm) | <a href="https://eoht.net/serve/airport/xdm" aria-label="查看星岛梦完整详情">前往详情</a> | **¥8 · 60GB/月** | ✅ | ✅ |
+| [闪电鼠(ShanDian)](#shandian-airport-review) | [前往官网](https://eoht.net/serve/airport/shandian) | <a href="https://eoht.net/serve/airport/shandian" aria-label="查看闪电鼠完整详情">前往详情</a> | **¥8 · 60GB/月** | ❌ | ✅ |
+| [云界线(YunJieXian)](#yunjiexian-airport-review) | [前往官网](https://eoht.net/serve/airport/yunjiexian) | <a href="https://eoht.net/serve/airport/yunjiexian" aria-label="查看云界线完整详情">前往详情</a> | **¥8 · 60GB/月** | ✅ | ✅ |
+| [神行云(ShenXingYun)](#shenxing-airport-review) | [前往官网](https://eoht.net/serve/airport/shenxing) | <a href="https://eoht.net/serve/airport/shenxing" aria-label="查看神行云完整详情">前往详情</a> | **¥8 · 60GB/月** | ❌ | ✅ |
+| [Sogo云](#sogo-airport-review) | [前往官网](https://eoht.net/serve/airport/sogo) | <a href="https://eoht.net/serve/airport/sogo" aria-label="查看 Sogo云完整详情">前往详情</a> | **约¥8.17 · 60GB/月** | ✅ | ✅ |
+| <a href="#2mao-airport-review">二猫云(2mao)</a> | [前往官网](https://eoht.net/serve/airport/2mao) | <a href="https://eoht.net/serve/airport/2mao" aria-label="查看二猫云完整详情">前往详情</a> | **约¥7.42 · 60GB/月** | ❌ | ✅ |
+| [宇宙云(YuZhou)](#yuzhou-airport-review) | [前往官网](https://eoht.net/serve/airport/yuzhou) | <a href="https://eoht.net/serve/airport/yuzhou" aria-label="查看宇宙云完整详情">前往详情</a> | **¥8 · 60GB/月** | ❌ | ✅ |
+| <a href="#1fly-airport-review">一翻云(1fly)</a> | [前往官网](https://eoht.net/serve/airport/1fly) | <a href="https://eoht.net/serve/airport/1fly" aria-label="查看一翻云完整详情">前往详情</a> | **约¥8.17 · 60GB/月** | ❌ | ✅ |
+| [边缘节点(EdgeNova)](#edgenova-airport-review) | [前往官网](https://eoht.net/serve/airport/edgenova) | <a href="https://eoht.net/serve/airport/edgenova" aria-label="查看边缘节点完整详情">前往详情</a> | **约¥8.17 · 45GB/月** | ✅ | ✅ |
+| [快狸(KuaiLi)](#kuaili-airport-review) | [前往官网](https://eoht.net/serve/airport/kuaili) | <a href="https://eoht.net/serve/airport/kuaili" aria-label="查看快狸完整详情">前往详情</a> | **¥10 · 30GB/月** | ❌ | ✅ |
+| [暮光网络(TwiLight)](#twilight-airport-review) | [前往官网](https://eoht.net/serve/airport/twilight) | <a href="https://eoht.net/serve/airport/twilight" aria-label="查看暮光网络完整详情">前往详情</a> | **约¥9.08 · 70GB/月** | ✅ | ✅ |
+| [微风网络(Breeze)](#breeze-airport-review) | [前往官网](https://eoht.net/serve/airport/breeze) | <a href="https://eoht.net/serve/airport/breeze" aria-label="查看微风网络完整详情">前往详情</a> | **约¥11.42 · 100GB/月** | ✅ | ✅ |
+| [飞猫云(FlyCat)](#flycat-airport-review) | [前往官网](https://eoht.net/serve/airport/flycat) | <a href="https://eoht.net/serve/airport/flycat" aria-label="查看飞猫云完整详情">前往详情</a> | **¥7 · 50GB/月** | ✅ | ✅ |
+| [光速云(LightSpeed)](#lightspeed-airport-review) | [前往官网](https://eoht.net/serve/airport/lightspeed) | <a href="https://eoht.net/serve/airport/lightspeed" aria-label="查看光速云完整详情">前往详情</a> | **¥8.25 · 59GB/月** | ✅ | ✅ |
+| [速界(SuJie)](#sujie-airport-review) | [前往官网](https://eoht.net/serve/airport/sujie) | <a href="https://eoht.net/serve/airport/sujie" aria-label="查看速界完整详情">前往详情</a> | **¥7.5 · 50GB/月** | ❌ | ✅ |
+| [可达(KeDa)](#keda-airport-review) | [前往官网](https://eoht.net/serve/airport/keda) | <a href="https://eoht.net/serve/airport/keda" aria-label="查看可达完整详情">前往详情</a> | **¥12 · 100GB/月** | ❌ | ✅ |
+| [飞为(Firefly)](#firefly-airport-review) | [前往官网](https://eoht.net/serve/airport/firefly) | <a href="https://eoht.net/serve/airport/firefly" aria-label="查看飞为完整详情">前往详情</a> | **¥8 · 60GB/月** | ✅ | ✅ |
+| [闪跃(FlashLeap)](#flashleap-airport-review) | [前往官网](https://eoht.net/serve/airport/flashleap) | <a href="https://eoht.net/serve/airport/flashleap" aria-label="查看闪跃完整详情">前往详情</a> | **¥8 · 60GB/月** | ❌ | ✅ |
+| [无忧链接(WuYou)](#wuyou-airport-review) | [前往官网](https://eoht.net/serve/airport/wuyou) | <a href="https://eoht.net/serve/airport/wuyou" aria-label="查看无忧链接完整详情">前往详情</a> | **约¥6.58 · 40GB/月** | ✅ | ✅ |
+| [隐形人(YinXingRen)](#yinxingren-airport-review) | [前往官网](https://eoht.net/serve/airport/yinxingren) | <a href="https://eoht.net/serve/airport/yinxingren" aria-label="查看隐形人完整详情">前往详情</a> | **约¥9.08 · 80GB/月** | ❌ | ✅ |
+| [梯子云(LadderCloud)](#laddercloud-airport-review) | [前往官网](https://eoht.net/serve/airport/laddercloud) | <a href="https://eoht.net/serve/airport/laddercloud" aria-label="查看梯子云完整详情">前往详情</a> | **约¥7.42 · 60GB/月** | ❌ | ✅ |
+| <a href="#9yun-airport-review">九云机场(9Yun)</a> | [前往官网](https://eoht.net/serve/airport/9yun) | <a href="https://eoht.net/serve/airport/9yun" aria-label="查看九云机场完整详情">前往详情</a> | **约¥5.67 · 200GB/月** | ✅ | ✅ |
+| [宝云(BaoYun)](#baoyun-airport-review) | [前往官网](https://eoht.net/serve/airport/baoyun) | <a href="https://eoht.net/serve/airport/baoyun" aria-label="查看宝云完整详情">前往详情</a> | **¥4 · 200GB/月** | ✅ | ✅ |
+| [有一说一(U1S1)](#u1s1-airport-review) | [前往官网](https://eoht.net/serve/airport/u1s1) | <a href="https://eoht.net/serve/airport/u1s1" aria-label="查看有一说一完整详情">前往详情</a> | **¥8 · 60GB/月** | ❌ | ✅ |
+| [灵猫网络(SpiritCat)](#spiritcat-airport-review) | [前往官网](https://eoht.net/serve/airport/spiritcat) | <a href="https://eoht.net/serve/airport/spiritcat" aria-label="查看灵猫网络完整详情">前往详情</a> | **约¥7.08 · 45GB/月** | ❌ | ✅ |
+| [云图机场(YunTu)](#yuntu-airport-review) | [前往官网](https://eoht.net/serve/airport/yuntu) | <a href="https://eoht.net/serve/airport/yuntu" aria-label="查看云图机场完整详情">前往详情</a> | **¥20 · 150GB/月** | ✅ | ✅ |
+| [榴莲云(LiuLianYun)](#liulianyun-airport-review) | [前往官网](https://eoht.net/serve/airport/liulianyun) | <a href="https://eoht.net/serve/airport/liulianyun" aria-label="查看榴莲云完整详情">前往详情</a> | **¥8 · 60GB/月** | ❌ | ✅ |
+| [杏花云(XingHua)](#xinghua-airport-review) | [前往官网](https://eoht.net/serve/airport/xinghua) | <a href="https://eoht.net/serve/airport/xinghua" aria-label="查看杏花云完整详情">前往详情</a> | **¥1 · 50GB/月** | ❌ | ✅ |
+| [环球梯(HuanQiu)](#huanqiu-airport-review) | [前往官网](https://eoht.net/serve/airport/huanqiu) | <a href="https://eoht.net/serve/airport/huanqiu" aria-label="查看环球梯完整详情">前往详情</a> | **¥8 · 60GB/月** | ❌ | ✅ |
+| [灵动云(LingDongYun)](#lingdongyun-airport-review) | [前往官网](https://eoht.net/serve/airport/lingdongyun) | <a href="https://eoht.net/serve/airport/lingdongyun" aria-label="查看灵动云完整详情">前往详情</a> | **¥8.25 · 70GB/月** | ✅ | ✅ |
+| [隐云(YinYun)](#yinyun-airport-review) | [前往官网](https://eoht.net/serve/airport/yinyun) | <a href="https://eoht.net/serve/airport/yinyun" aria-label="查看隐云完整详情">前往详情</a> | **约¥22.83 · 150GB/月** | ❌ | ✅ |
+| [SSLAR](#sslar-airport-review) | [前往官网](https://eoht.net/serve/airport/sslar) | <a href="https://eoht.net/serve/airport/sslar" aria-label="查看 SSLAR 完整详情">前往详情</a> | **约¥13.58 · 100GB/月** | ❌ | ✅ |
+| [唯兔云(WeiTuYun)](#weitu-airport-review) | [前往官网](https://eoht.net/serve/airport/weitu) | <a href="https://eoht.net/serve/airport/weitu" aria-label="查看唯兔云完整详情">前往详情</a> | **约¥6.66 · 45GB/月** | ✅ | ✅ |
+| [全球云(QuanQiuYun)](#quanqiuyun-airport-review) | [前往官网](https://eoht.net/serve/airport/quanqiuyun) | <a href="https://eoht.net/serve/airport/quanqiuyun" aria-label="查看全球云完整详情">前往详情</a> | **¥8.25 · 59GB/月** | ✅ | ✅ |
+| [Echo](#echo-airport-review) | [前往官网](https://eoht.net/serve/airport/echo) | <a href="https://eoht.net/serve/airport/echo" aria-label="查看 Echo 完整详情">前往详情</a> | **¥8 · 80GB/月** | ❌ | ✅ |
+| [可信云(KeXin)](#kexin-airport-review) | [前往官网](https://eoht.net/serve/airport/kexin) | <a href="https://eoht.net/serve/airport/kexin" aria-label="查看可信云完整详情">前往详情</a> | **¥8 · 60GB/月** | ❌ | ✅ |
+| [鲤云(LiYun)](#liyun-airport-review) | [前往官网](https://eoht.net/serve/airport/liyun) | <a href="https://eoht.net/serve/airport/liyun" aria-label="查看鲤云完整详情">前往详情</a> | **¥7 · 64GB/月** | ✅ | ✅ |
+| [锦云(JinYun)](#jinyun-airport-review) | [前往官网](https://eoht.net/serve/airport/jinyun) | <a href="https://eoht.net/serve/airport/jinyun" aria-label="查看锦云完整详情">前往详情</a> | **¥6 · 64GB/月** | ✅ | ✅ |
+| [秒秒云(MiaoMiao)](#miaomiao-airport-review) | [前往官网](https://eoht.net/serve/airport/miaomiao) | <a href="https://eoht.net/serve/airport/miaomiao" aria-label="查看秒秒云完整详情">前往详情</a> | **约¥6.58 · 64GB/月** | ✅ | ✅ |
+| [山水云(SSY)](#ssy-airport-review) | [前往官网](https://eoht.net/serve/airport/ssy) | <a href="https://eoht.net/serve/airport/ssy" aria-label="查看山水云完整详情">前往详情</a> | **约¥7.33 · 64GB/月** | ✅ | ✅ |
+| [熊猫云(XiongMao)](#xiongmao-airport-review) | [前往官网](https://eoht.net/serve/airport/xiongmao) | <a href="https://eoht.net/serve/airport/xiongmao" aria-label="查看熊猫云完整详情">前往详情</a> | **¥6 · 300GB/月** | ❌ | ✅ |
+| [极速云(JiSu)](#jisu-airport-review) | [前往官网](https://eoht.net/serve/airport/jisu) | <a href="https://eoht.net/serve/airport/jisu" aria-label="查看极速云完整详情">前往详情</a> | **约¥26.67 · 500 ÷ 10 ≈ 50GB/月** | ✅ | ✅ |
+| [安迪云(AnDy)](#andy-airport-review) | [前往官网](https://eoht.net/serve/airport/andy) | <a href="https://eoht.net/serve/airport/andy" aria-label="查看安迪云完整详情">前往详情</a> | **¥2.50 · 50GB/月** | ✅ | ✅ |
 
 <a id="推荐基本原则"></a>
 
@@ -105,7 +106,7 @@
 
 ## 机场选购前必读
 
-<details>
+<details open>
 <summary>为什么建议准备主力与备用？</summary>
 
 机场是需要持续维护的网络服务，线路调整、节点故障、域名变化或临时拥堵都可能影响连接。主力和备用最好来自不同机场，避免两个订阅同时受到同一运营问题影响。
@@ -117,7 +118,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>机场与商业 VPN 有什么区别？</summary>
 
 “梯子”是对代理工具或服务的口语称呼，可能指代理客户端、商业 VPN，也可能指机场订阅；三者并不完全相同。
@@ -131,7 +132,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary>本页如何整理与比较？</summary>
 
 | 维度        | 主要检查内容                             | 容易误判的地方                           |
@@ -147,15 +148,15 @@
 
 </details>
 
-<details>
+<details open>
 <summary>购买前检查清单</summary>
 
-- [x] 确认套餐是月付、年付还是一次性流量包，并查看流量重置与有效期。
-- [x] 确认订阅是否兼容自己的 Windows、macOS、Android、iOS 或路由器客户端。
-- [x] 查看节点倍率、同时使用规则、限速规则和是否需要使用专属客户端。
-- [x] 用自己的宽带或移动网络测试常用地区节点，尤其关注晚高峰的延迟、丢包与持续可用性。
-- [x] 确认机场是否对 Netflix、Disney+、YouTube、ChatGPT、Gemini 等目标服务提供解锁保障，并核对适用套餐、节点与售后处理方式。
-- [x] 保存工单入口、公告渠道和备用域名，但不要在第三方服务中提交不必要的敏感信息。
+- 确认套餐是月付、年付还是一次性流量包，并查看流量重置与有效期。
+- 确认订阅是否兼容自己的 Windows、macOS、Android、iOS 或路由器客户端。
+- 查看节点倍率、同时使用规则、限速规则和是否需要使用专属客户端。
+- 用自己的宽带或移动网络测试常用地区节点，尤其关注晚高峰的延迟、丢包与持续可用性。
+- 确认机场是否对 Netflix、Disney+、YouTube、ChatGPT、Gemini 等目标服务提供解锁保障，并核对适用套餐、节点与售后处理方式。
+- 保存工单入口、公告渠道和备用域名，但不要在第三方服务中提交不必要的敏感信息。
 
 </details>
 
@@ -191,6 +192,8 @@
 
 <a href="https://eoht.net/serve/airport/xdm" target="_blank" rel="sponsored noreferrer" aria-label="访问星岛梦官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/xdm) · **最低月付：¥25 · 150GB/月** · 通用订阅：✅ · 按量包：✅
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-xdm)
+
 星岛梦提供 **6 Gbps 带宽**、直连与 IPLC 线路，支持主流代理客户端，套餐涵盖按月流量和不限时流量包。
 
 |   套餐类型   |  流量/月  | 月付 | 季付 | 年付  |                                                   套餐购买                                                   |
@@ -217,6 +220,8 @@
 
 <a href="https://eoht.net/serve/airport/shandian" target="_blank" rel="sponsored noreferrer" aria-label="访问闪电鼠官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/shandian) · **最低月付：¥22 · 120GB/月** · 通用订阅：✅ · 按量包：❌
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-shandian)
+
 闪电鼠采用 VLESS 协议，年付小包标注 IPLC、常规套餐标注 IEPL，提供自研客户端，第三方订阅导入需联系客服。
 
 | 套餐类型 | 流量/月 | 月付 | 季付 | 年付 | 套餐购买 |
@@ -235,6 +240,8 @@
 ### 云界线(YunJieXian)
 
 <a href="https://eoht.net/serve/airport/yunjiexian" target="_blank" rel="sponsored noreferrer" aria-label="访问云界线官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/yunjiexian) · **最低月付：¥25 · 150GB/月** · 通用订阅：✅ · 按量包：✅
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-yunjiexian)
 
 云界线支持通用订阅，提供按月重置套餐与不限时流量包，年付小包标注 IPLC 专线和 1 倍率计费。
 
@@ -264,6 +271,8 @@
 
 <a href="https://eoht.net/serve/airport/shenxing" target="_blank" rel="sponsored noreferrer" aria-label="访问神行云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/shenxing) · **最低月付：¥23 · 120GB/月** · 通用订阅：✅ · 按量包：❌
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-shenxing)
+
 神行云采用 VLESS 协议，常规套餐标注 IPLC、年付特惠版标注 IEPL，提供自研客户端，通用订阅需联系客服获取。
 
 | 套餐类型 | 流量/月 | 付款周期 | 标价 | 套餐购买 |
@@ -284,6 +293,8 @@
 ### Sogo云
 
 <a href="https://eoht.net/serve/airport/sogo" target="_blank" rel="sponsored noreferrer" aria-label="访问Sogo云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/sogo) · **最低月付：¥25 · 120GB/月** · 通用订阅：✅ · 按量包：✅
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-sogo)
 
 Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅，支持周期套餐及不限时流量包。
 
@@ -314,6 +325,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/2mao" target="_blank" rel="sponsored noreferrer" aria-label="访问二猫云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/2mao) · **最低月付：¥13 · 60GB/月** · 通用订阅：✅ · 按量包：❌
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-2mao)
+
 二猫云主打 IEPL 线路与原生 IP，兼容主流代理客户端，提供月付、年付小包及多档月度流量套餐。
 
 |      套餐类型      | 流量/月  | 月付 | 季付 | 年付  |                                                    套餐购买                                                     |
@@ -336,6 +349,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 ### 宇宙云(YuZhou)
 
 <a href="https://eoht.net/serve/airport/yuzhou" target="_blank" rel="sponsored noreferrer" aria-label="访问宇宙云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/yuzhou) · **最低月付：¥12.5 · 50GB/月** · 通用订阅：✅ · 按量包：❌
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-yuzhou)
 
 宇宙云提供直连与 IPLC 线路，订阅兼容主流代理客户端，套餐包括月付、年付小包和多档月度流量方案。
 
@@ -360,6 +375,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/1fly" target="_blank" rel="sponsored noreferrer" aria-label="访问一翻云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/1fly) · **最低月付：¥20 · 150GB/月** · 通用订阅：✅ · 按量包：❌
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-1fly)
+
 一翻云提供专线节点、自研客户端与通用订阅，套餐从轻量年付版覆盖至每月 1.2TB 的大流量方案。
 
 |  套餐类型  | 流量/月  | 月付 | 季付 | 年付 |                                                    套餐购买                                                     |
@@ -381,6 +398,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 ### 边缘节点(EdgeNova)
 
 <a href="https://eoht.net/serve/airport/edgenova" target="_blank" rel="sponsored noreferrer" aria-label="访问边缘节点官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/edgenova) · **最低月付：¥15 · 50GB/月** · 通用订阅：✅ · 按量包：✅ · 限时体验套餐，不参与专属优惠
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-edgenova)
 
 边缘节点提供 **6 Gbps 带宽**，采用 IPLC 专线，套餐统一 1 倍率且不限设备数量，提供周期套餐与支持付费重置的不限时流量包。
 
@@ -415,6 +434,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/kuaili" target="_blank" rel="sponsored noreferrer" aria-label="访问快狸官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/kuaili) · **最低月付：¥15 · 50GB/月** · 通用订阅：✅ · 按量包：❌
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-kuaili)
+
 快狸支持主流代理客户端，套餐涵盖轻量月付、年付小包及每月 100GB 至 1TB 的多档流量方案。
 
 |    套餐类型    |  流量/月  | 月付 | 季付 | 年付  |                                                    套餐购买                                                     |
@@ -435,6 +456,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 ### 暮光网络(TwiLight)
 
 <a href="https://eoht.net/serve/airport/twilight" target="_blank" rel="sponsored noreferrer" aria-label="访问暮光网络官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/twilight) · **最低月付：¥20 · 120GB/月** · 通用订阅：✅ · 按量包：✅
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-twilight)
 
 暮光网络支持 VLESS、Shadowsocks 与通用订阅，套餐标注 BGP 智能路由和专线出口，另有不限时流量包及独享定制节点。
 
@@ -470,6 +493,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/breeze" target="_blank" rel="sponsored noreferrer" aria-label="访问微风网络官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/breeze) · **最低月付：¥27 · 200GB/月** · 通用订阅：✅ · 按量包：✅
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-breeze)
+
 微风网络提供 **6 Gbps 带宽**，采用三网优化入口与 IPLC 专线，支持通用订阅，提供周期套餐及不限时流量包，不限制设备同时接入。
 
 | 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 套餐购买 |
@@ -495,6 +520,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 ### 飞猫云(FlyCat)
 
 <a href="https://eoht.net/serve/airport/flycat" target="_blank" rel="sponsored noreferrer" aria-label="访问飞猫云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/flycat) · **最低月付：¥25 · 150GB/月** · 通用订阅：✅ · 按量包：✅
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-flycat)
 
 飞猫云提供 **2.5 Gbps 带宽**，主打 IEPL 专线，提供自研客户端和通用订阅，套餐涵盖年付小包、周期套餐、不限时流量包及专属定制。
 
@@ -530,6 +557,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/lightspeed" target="_blank" rel="sponsored noreferrer" aria-label="访问光速云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/lightspeed) · **最低月付：¥17 · 110GB/月** · 通用订阅：✅ · 按量包：✅
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-lightspeed)
+
 光速云采用隧道中转与专线，订阅可导入主流代理客户端，提供轻量年付、多档月度套餐及 1TB 不限时流量包。
 
 |  套餐类型  | 流量/月  | 月付 | 季付 | 年付  |                                                      套餐购买                                                       |
@@ -556,6 +585,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/sujie" target="_blank" rel="sponsored noreferrer" aria-label="访问速界官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/sujie) · **最低月付：¥15 · 50GB/月** · 通用订阅：✅ · 按量包：❌ · 单月试用套餐
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-sujie)
+
 速界提供 **2.5 Gbps 带宽**，主打端到端 IEPL 专线，兼容主流代理客户端，套餐包括单月试用、年付体验包及多档月度流量方案。
 
 |    套餐类型    |  流量/月  | 月付 |  季付  | 年付  |                                                    套餐购买                                                    |
@@ -579,6 +610,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/keda" target="_blank" rel="sponsored noreferrer" aria-label="访问可达官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/keda) · **最低月付：¥15 · 100GB/月** · 通用订阅：✅ · 按量包：❌
 
+暂未收录优惠码。
+
 可达提供 **2.5 Gbps 带宽**，采用 SD-WAN 网络架构并支持主流代理客户端，提供每月 100GB、200GB 和 300GB 三档流量套餐。
 
 | 套餐类型 | 流量/月  | 月付 | 季付 | 年付 |                                                   套餐购买                                                    |
@@ -598,6 +631,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 ### 飞为(Firefly)
 
 <a href="https://eoht.net/serve/airport/firefly" target="_blank" rel="sponsored noreferrer" aria-label="访问飞为官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/firefly) · **最低月付：¥25 · 150GB/月** · 通用订阅：✅ · 按量包：✅
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-firefly)
 
 飞为提供 **6 Gbps 带宽**，主打 IPLC 专线与 VLESS 协议，提供年付小包、周期套餐、不限时流量包及企业定制方案。
 
@@ -625,6 +660,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/flashleap" target="_blank" rel="sponsored noreferrer" aria-label="访问闪跃官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/flashleap) · **最低月付：¥24 · 150GB/月** · 通用订阅：✅ · 按量包：❌
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-flashleap)
+
 闪跃提供 **6 Gbps 带宽**，采用 IPLC 线路，提供定制客户端与通用订阅，所有套餐标注 1 倍率，涵盖轻量年付和多档月度流量。
 
 |      套餐类型      | 流量/月  | 月付 | 季付 | 年付  |                                                      套餐购买                                                      |
@@ -646,6 +683,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 ### 无忧链接(WuYou)
 
 <a href="https://eoht.net/serve/airport/wuyou" target="_blank" rel="sponsored noreferrer" aria-label="访问无忧链接官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/wuyou) · **最低月付：¥19 · 100GB/月** · 通用订阅：✅ · 按量包：✅
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-wuyou)
 
 无忧链接提供 **6 Gbps 带宽**，采用 IPLC 专线与 VLESS 协议，兼容支持该协议的主流客户端，提供月度套餐、年付小包及不限时流量包。
 
@@ -670,6 +709,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/yinxingren" target="_blank" rel="sponsored noreferrer" aria-label="访问隐形人官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/yinxingren) · **最低月付：¥24 · 144GB/月** · 通用订阅：✅ · 按量包：❌
 
+暂未收录优惠码。
+
 隐形人采用 VLESS 协议与纯专线架构，提供轻量年付、常规周期和定制套餐，通用订阅需联系客服获取。
 
 | 套餐类型 | 流量/月 | 月付 | 季付 | 年付 | 套餐购买 |
@@ -693,6 +734,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/laddercloud" target="_blank" rel="sponsored noreferrer" aria-label="访问梯子云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/laddercloud) · **最低月付：¥25 · 125GB/月** · 通用订阅：✅ · 按量包：❌
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-laddercloud)
+
 梯子云采用 IEPL 专线与 VLESS 协议，提供自研客户端和通用订阅，套餐覆盖年付轻量、常规周期及私人定制方案。
 
 | 套餐类型 | 流量/月 | 月付 | 季付 | 年付 | 套餐购买 |
@@ -715,6 +758,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 ### 九云机场(9Yun)
 
 <a href="https://eoht.net/serve/airport/9yun" target="_blank" rel="sponsored noreferrer" aria-label="访问九云机场官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/9yun) · **最低月付：¥6 · 150GB/月** · 通用订阅：✅ · 按量包：✅
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-9yun)
 
 九云采用海外中转与 VLESS 协议，提供周期套餐、365 天总流量包和不限时流量包，其中 365 天流量包购买后会覆盖当前套餐。
 
@@ -755,6 +800,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/baoyun" target="_blank" rel="sponsored noreferrer" aria-label="访问宝云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/baoyun) · **最低月付：¥4 · 200GB/月** · 通用订阅：✅ · 按量包：✅
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-baoyun)
+
 宝云提供海外与中转节点及通用订阅，周期套餐按月分配流量，另有 200GB 至 1000GB 的不限时流量包。
 
 **季付轻量特惠与常规周期套餐**
@@ -786,6 +833,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/u1s1" target="_blank" rel="sponsored noreferrer" aria-label="访问有一说一官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/u1s1) · **最低月付：¥20 · 120GB/月** · 通用订阅：✅ · 按量包：❌
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-u1s1)
+
 有一说一采用 BGP 三网优化、IEPL 专线出口与 SS 协议，支持通用订阅和不限设备连接，另可咨询个人及企业定制。
 
 | 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 套餐购买 |
@@ -814,6 +863,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/spiritcat" target="_blank" rel="sponsored noreferrer" aria-label="访问灵猫网络官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/spiritcat) · **最低月付：¥25 · 150GB/月** · 通用订阅：✅ · 按量包：❌
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-spiritcat)
+
 灵猫网络提供 **6 Gbps 带宽**，采用 IPLC 专线与 VLESS 协议，支持通用订阅和 1 倍率计费，提供年付小包及按月重置的常规套餐。
 
 | 套餐类型 | 流量/月 | 月付 | 季付 | 年付 | 套餐购买 |
@@ -831,6 +882,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 ### 云图机场(YunTu)
 
 <a href="https://eoht.net/serve/airport/yuntu" target="_blank" rel="sponsored noreferrer" aria-label="访问云图机场官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/yuntu) · **最低月付：¥20 · 150GB/月** · 通用订阅：✅ · 按量包：✅
+
+暂未收录优惠码。
 
 云图机场主打专线与三网优化，支持通用订阅，周期套餐和不限时流量包均按 1 倍率计费，最多 5 台设备同时在线。
 
@@ -859,6 +912,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/liulianyun" target="_blank" rel="sponsored noreferrer" aria-label="访问榴莲云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/liulianyun) · **最低月付：¥24 · 140GB/月** · 通用订阅：✅ · 按量包：❌
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-liulianyun)
+
 榴莲云提供通用订阅和五档周期套餐，年付特惠版标注 IPLC 专线、原生 IP 与 1 倍率，暂无不限时流量包。
 
 | 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 两年付 | 套餐购买 |
@@ -878,6 +933,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 ### 杏花云(XingHua)
 
 <a href="https://eoht.net/serve/airport/xinghua" target="_blank" rel="sponsored noreferrer" aria-label="访问杏花云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/xinghua) · **最低月付：¥3 · 200GB/月** · 通用订阅：✅ · 按量包：✅
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-xinghua)
 
 杏花云使用 VLESS 协议并支持通用订阅，提供按月分配流量的周期套餐与 365 天有效的一次性流量包，设备数按档位限制。
 
@@ -907,6 +964,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/huanqiu" target="_blank" rel="sponsored noreferrer" aria-label="访问环球梯官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/huanqiu) · **最低月付：¥22 · 120GB/月** · 通用订阅：✅ · 按量包：✅
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-huanqiu)
+
 环球梯采用 VLESS 协议与纯专线架构，支持通用订阅，提供按月重置的周期套餐及 365 天有效的固定总流量按量包。
 
 **周期套餐**
@@ -934,6 +993,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 ### 灵动云(LingDongYun)
 
 <a href="https://eoht.net/serve/airport/lingdongyun" target="_blank" rel="sponsored noreferrer" aria-label="访问灵动云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/lingdongyun) · **最低月付：¥20 · 100GB/月** · 通用订阅：✅ · 按量包：✅
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-lingdongyun)
 
 灵动云提供专用客户端，常规套餐标注 BGP 与 SS 协议、穿云标注 IPLC，全部 1 倍率，通用订阅需联系客服获取。
 
@@ -971,6 +1032,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/yinyun" target="_blank" rel="sponsored noreferrer" aria-label="访问隐云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/yinyun) · **最低月付：¥29 · 150GB/月** · 通用订阅：✅ · 按量包：❌ · 首次需季付 ¥81.76 · 专属客户端同价不限流量 · <a id="yinyun-client-vs-subscription-features" href="https://eoht.net/serve/airport/yinyun#yinyun-client-vs-subscription-features">客户端与通用订阅功能对比</a>
 
+暂未收录优惠码。
+
 隐云提供 IPLC / IEPL / BGP 线路及专属客户端和通用订阅两种模式，轻量版首次需季付，独立节点须搭配有效主套餐。
 
 **专属客户端模式**
@@ -1006,6 +1069,8 @@ Sogo云采用 IPLC 线路和 VLESS 协议，提供自研客户端与通用订阅
 
 <a href="https://eoht.net/serve/airport/sslar" target="_blank" rel="sponsored noreferrer" aria-label="访问SSLAR官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/sslar) · **最低月付：¥17 · 100GB/月** · 通用订阅：✅ · 按量包：❌
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-sslar)
+
 SSLAR 提供 **2.5 Gbps 带宽**，采用 IEPL 专线与 BGP 中转，支持 Shadowsocks / VLESS 协议，并提供 Windows、macOS 和 Android 专属客户端。
 
 |   套餐类型   | 流量/月  | 月付 | 季付 | 年付 |                                                     套餐购买                                                     |
@@ -1023,6 +1088,8 @@ SSLAR 提供 **2.5 Gbps 带宽**，采用 IEPL 专线与 BGP 中转，支持 Sha
 ### 唯兔云(WeiTuYun)
 
 <a href="https://eoht.net/serve/airport/weitu" target="_blank" rel="sponsored noreferrer" aria-label="访问唯兔云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/weitu) · **最低月付：¥14.90 · 100GB/月** · 通用订阅：✅ · 按量包：✅ · 仅指定节日开放 · 常规月付 ¥19.90 起
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-weitu)
 
 唯兔云提供 **6 Gbps 带宽**、IPLC 与 IEPL 套餐、VLESS 通用订阅和不限时流量包，均按 1 倍率计费，节日限时套餐仅在指定节日开放购买。
 
@@ -1055,6 +1122,8 @@ SSLAR 提供 **2.5 Gbps 带宽**，采用 IEPL 专线与 BGP 中转，支持 Sha
 ### 全球云(QuanQiuYun)
 
 <a href="https://eoht.net/serve/airport/quanqiuyun" target="_blank" rel="sponsored noreferrer" aria-label="访问全球云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/quanqiuyun) · **最低月付：¥20 · 120GB/月** · 通用订阅：✅ · 按量包：✅
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-quanqiuyun)
 
 全球云提供 **6 Gbps 带宽**，采用 Shadowsocks 协议，服务介绍列有 IPLC、IEPL 专线与 BGP 三网优化，提供周期套餐、不限时流量包和独享节点。
 
@@ -1094,6 +1163,8 @@ SSLAR 提供 **2.5 Gbps 带宽**，采用 IEPL 专线与 BGP 中转，支持 Sha
 
 <a href="https://eoht.net/serve/airport/echo" target="_blank" rel="sponsored noreferrer" aria-label="访问Echo官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/echo) · **最低月付：¥10 · 80GB/月** · 通用订阅：✅ · 按量包：❌
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-echo)
+
 Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供多档月度流量套餐及 5GB、3 小时试用。
 
 |    套餐类型    |  流量/月  | 月付 | 季付 | 年付 |                                                    套餐购买                                                     |
@@ -1115,6 +1186,8 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 ### 可信云(KeXin)
 
 <a href="https://eoht.net/serve/airport/kexin" target="_blank" rel="sponsored noreferrer" aria-label="访问可信云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/kexin) · **最低月付：¥15 · 60GB/月** · 通用订阅：✅ · 按量包：❌
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-kexin)
 
 可信云提供 **6 Gbps 带宽**，主打全 IEPL 专线与多地区节点，提供月付、年付小包，以及每月 150GB 至 1.2TB 的常规套餐。
 
@@ -1138,6 +1211,8 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 ### 鲤云(LiYun)
 
 <a href="https://eoht.net/serve/airport/liyun" target="_blank" rel="sponsored noreferrer" aria-label="访问鲤云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/liyun) · **最低月付：¥7 · 50GB/月** · 通用订阅：✅ · 按量包：✅
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-liyun)
 
 鲤云采用海外中转节点与 VLESS 协议，支持通用订阅，提供按月重置的周期套餐及 100GB 不限时流量包。
 
@@ -1166,6 +1241,8 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 ### 锦云(JinYun)
 
 <a href="https://eoht.net/serve/airport/jinyun" target="_blank" rel="sponsored noreferrer" aria-label="访问锦云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/jinyun) · **最低月付：¥6 · 50GB/月** · 通用订阅：✅ · 按量包：✅
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-jinyun)
 
 锦云采用海外中转节点与 VLESS 协议，提供普通版、三网优化高端线路 Pro 套餐及 100GB 不限时流量包。
 
@@ -1203,6 +1280,8 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 ### 秒秒云(MiaoMiao)
 
 <a href="https://eoht.net/serve/airport/miaomiao" target="_blank" rel="sponsored noreferrer" aria-label="访问秒秒云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/miaomiao) · **最低月付：¥14 · 128GB/月** · 通用订阅：✅ · 按量包：✅
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-miaomiao)
 
 秒秒云提供中转节点与通用订阅，套餐涵盖周期特惠、常规与 max 档位、不限时流量包及不可复购的 10GB 付费试用。
 
@@ -1246,6 +1325,8 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 ### 山水云(SSY)
 
 <a href="https://eoht.net/serve/airport/ssy" target="_blank" rel="sponsored noreferrer" aria-label="访问山水云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/ssy) · **最低月付：¥15 · 100GB/月** · 通用订阅：✅ · 按量包：✅
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-ssy)
 
 山水云普通套餐使用中转与直连节点，Pro 和付费试用标注三网优化高端线路，另有普通与 Pro 两档不限时流量包。
 
@@ -1300,6 +1381,8 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 
 <a href="https://eoht.net/serve/airport/xiongmao" target="_blank" rel="sponsored noreferrer" aria-label="访问熊猫云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/xiongmao) · **最低月付：¥6 · 300GB/月** · 通用订阅：✅ · 按量包：✅
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-xiongmao)
+
 熊猫云主打三网优化线路，支持通用订阅与 1 倍率计费，提供按月重置套餐及有效期 365 天的一次性流量包。
 
 | 套餐类型 | 流量/月 | 月付 | 季付 | 半年付 | 年付 | 套餐购买 |
@@ -1327,6 +1410,8 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 ### 极速云(JiSu)
 
 <a href="https://eoht.net/serve/airport/jisu" target="_blank" rel="sponsored noreferrer" aria-label="访问极速云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/jisu) · **最低月付：¥8.90 · 100GB/月** · 通用订阅：✅ · 按量包：✅ · 仅新人体验，不可续费 · 10 倍率，折合约 10GB 用量
+
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-jisu)
 
 极速云主打 CN2 GIA、AS9929/10099 与 CMIN2 三网优化线路，全部套餐按 10 倍率扣量，标称 1000GB 折合约 100GB 用量。
 
@@ -1372,6 +1457,8 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 
 <a href="https://eoht.net/serve/airport/andy" target="_blank" rel="sponsored noreferrer" aria-label="访问安迪云官网">官网地址</a> · [完整评测](https://eoht.net/serve/airport/andy) · **最低月付：¥5 · 100GB/月** · 通用订阅：✅ · 按量包：✅
 
+[查看本机场优惠](https://github.com/vpnshow/airport-coupons#coupon-andy)
+
 安迪云使用 VLESS 协议与通用订阅，各档线路相同，按流量、设备数和速率区分，复购一次性套餐会重置剩余流量。
 
 **周期套餐**
@@ -1402,7 +1489,7 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 
 ### 第一步：按用途选择机场套餐与线路
 
-先通过[机场套餐对比表](#vpn-airport-plan-comparison)查看价格、流量和优惠入口，再进入对应机场详情页核对支付方式、线路、客户端兼容性、测速记录以及流媒体和 AI 解锁场景。
+先用[机场套餐对比表](#vpn-airport-plan-comparison)比较价格和流量，再到对应机场详情页查看支付方式、线路、客户端兼容性、测速记录以及流媒体和 AI 解锁场景。优惠码及适用条件可在[机场优惠码汇总](https://github.com/vpnshow/airport-coupons)查看。
 
 - 日常网页、社交和 AI 工具：重点比较流量是否够用、常用地区节点以及晚高峰连接表现。
 - Netflix、YouTube 等流媒体：优先选择明确支持目标平台与地区的套餐，并使用机场标注的流媒体节点。
@@ -1476,7 +1563,7 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 
 ### 年付折合月价和真正的月付有什么区别？
 
-年付折合月价只是“年付总额 ÷ 12”的比较方式，购买时仍需一次支付全年费用；真正月付可以按月停止续费，首次尝试时资金风险更低。本页表格展示最便宜年付的月均折算价和每月流量，实际年付总额与月付套餐请在对应详情页核对。
+年付折合月价只是“年付总额 ÷ 12”的比较方式，购买时仍需一次支付全年费用；真正月付可以按月停止续费，首次尝试时资金风险更低。本页表格展示最低年付套餐的月均折算价和每月流量，实际年付总额与月付套餐请在对应详情页核对。
 
 <a id="one-time-data-vs-unlimited-data"></a>
 
@@ -1563,7 +1650,7 @@ Echo 采用专线中转和多服务器负载均衡，不设节点倍率，提供
 找到适合自己的 VPN 机场，可以按以下顺序完成：
 
 1. **明确需求**：确定预算、流量、常用设备，以及主要访问流媒体、AI、网页还是远程办公。
-2. **快速筛选**：通过[机场套餐对比表](#vpn-airport-plan-comparison)比较价格、流量、不限时流量包、通用订阅和优惠入口。
+2. **快速筛选**：在[机场套餐对比表](#vpn-airport-plan-comparison)比较价格、流量、不限时流量包和通用订阅，在[机场优惠码汇总](https://github.com/vpnshow/airport-coupons)查看优惠。
 3. **进入详情**：查看候选机场的支付方式、线路与客户端兼容性、测速记录、流媒体和 AI 解锁场景、节点特点及售后说明。
 4. **完成购买与配置**：选择套餐并使用“立即购买”入口，随后按[新手使用步骤](#vpn-airport-beginner-guide)导入订阅和连接节点。
 5. **验证实际用途**：在自己的网络和常用时段测试目标网站、Netflix、YouTube、ChatGPT 或 Gemini，并按机场说明使用专用节点。
